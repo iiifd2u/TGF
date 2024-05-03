@@ -28,11 +28,11 @@ Scientific study about terrestrial gamma-ray flashes(MIPT) /
 
 Визуализация данных на картографической проекции
 
-![](C:\Users\iii\Documents\Programm\TGF\record_images\mercator.JPG)
+![](https://github.com/iiifd2u/TGF/blob/main/record_images/mercator.JPG)
 
 Кластеризация по суше
 
-![](C:\Users\iii\Documents\Programm\TGF\record_images\clustering.JPG)
+![](https://github.com/iiifd2u/TGF/blob/main/record_images/clustering.JPG)
 
 ## Общий вывод
 
