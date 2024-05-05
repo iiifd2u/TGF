@@ -106,8 +106,8 @@ print(f"Вероятность возникновения молнии на ра
 #
 # Визуализируем данные с помощью geopandas
 
-TGF= np.loadtxt("../workspace_files/TGF_World.txt")
-coast_line = np.loadtxt('../workspace_files/coast_line.txt')
+TGF= np.loadtxt("./workspace_files/TGF_World.txt")
+coast_line = np.loadtxt('./workspace_files/coast_line.txt')
 
 """
 Переводим данные в декартову систему координат с помощью проекции Меркатора, встроенной в GeoPandas
