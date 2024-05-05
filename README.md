@@ -34,6 +34,8 @@ Scientific study about terrestrial gamma-ray flashes(MIPT) /
 
 ![](https://github.com/iiifd2u/TGF/blob/main/record_images/clustering.JPG)
 
+
+
 ## Общий вывод
 
 Вероятность возникновения гамма-вспышки возле береговой линии намного больше (p = 0.83), 
