@@ -24,7 +24,11 @@ Scientific study about terrestrial gamma-ray flashes(MIPT) /
 
 Распределение числа событий от ближайшего расстояния до береговой линии для мира и Африки
 
+![](https://github.com/iiifd2u/TGF/blob/main/record_images/distribution_world_africa.JPG)
+
 Распределение земных гаммма-вспышек по поверхности Земли
+
+![](https://github.com/iiifd2u/TGF/blob/main/record_images/3D.JPG)
 
 Визуализация данных на картографической проекции
 
@@ -34,7 +38,9 @@ Scientific study about terrestrial gamma-ray flashes(MIPT) /
 
 ![](https://github.com/iiifd2u/TGF/blob/main/record_images/clustering.JPG)
 
+Распределение числа событий от ближайшего расстояния до береговой линии для воды и суши
 
+![](https://github.com/iiifd2u/TGF/blob/main/record_images/distribution_ocean_land.JPG)
 
 ## Общий вывод
 
